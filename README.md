@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# A Modern TicTacToe with React & Minimax
+
+![Logo](https://github.com/Stringboom/tictactoe/assets/38455240/8b1a4dcc-a6e8-426e-a0d2-a0402d2e37ef)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
