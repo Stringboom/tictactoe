@@ -1,17 +1,16 @@
-# A Modern TicTacToe with React & Minimax
+# A Modern TicTacToe with React & Minimax Algorithm
 
 ![Logo](https://github.com/Stringboom/tictactoe/assets/38455240/8b1a4dcc-a6e8-426e-a0d2-a0402d2e37ef)
 
 ## Player
 
-Player can place their piece using react state
-
+A fully functional an playable tictactoe that demonstrates the power of react.
 
 ![img1](https://github.com/Stringboom/tictactoe/assets/38455240/ba83b022-9a52-431a-bb07-b832ba951a86)
 
 ## CPU
 
-The AI is implemented by the minimax algorithm, learn more [here](https://blogs.cornell.edu/info2040/2022/09/13/56590/#:~:text=The%20Minimax%20Tic%2DTac%2DToe,Want%20to%20try%20it%20yourself%3F)
+The AI is implemented with the minimax algorithm, learn more [here](https://blogs.cornell.edu/info2040/2022/09/13/56590/#:~:text=The%20Minimax%20Tic%2DTac%2DToe,Want%20to%20try%20it%20yourself%3F).
 
 ![img2](https://github.com/Stringboom/tictactoe/assets/38455240/a7e17663-2209-4874-9b5e-aaeaec247965)
 
