@@ -14,6 +14,12 @@ The AI is implemented with the minimax algorithm, learn more [here](https://blog
 
 ![img2](https://github.com/Stringboom/tictactoe/assets/38455240/a7e17663-2209-4874-9b5e-aaeaec247965)
 
+## Game Loop
+
+It uses a simple game loop with react states. It also features a mobile first fully responsive design. 
+
+![img3](https://github.com/Stringboom/tictactoe/assets/38455240/c98bb424-e839-41f8-a79d-935a80a60613)
+
 ## Available Scripts
 
 In the project directory, you can run:
