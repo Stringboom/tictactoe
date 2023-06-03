@@ -16,7 +16,7 @@ The AI is implemented with the minimax algorithm, learn more [here](https://blog
 
 ## Game Loop
 
-It uses a simple game loop with the [React Lifecycle](https://legacy.reactjs.org/docs/state-and-lifecycle.html). It also features a mobile first fully responsive design. 
+It uses a simple game loop with the [React Lifecycle](https://legacy.reactjs.org/docs/state-and-lifecycle.html). It also features a mobile first, fully responsive design. 
 
 ![img3](https://github.com/Stringboom/tictactoe/assets/38455240/c98bb424-e839-41f8-a79d-935a80a60613)
 
