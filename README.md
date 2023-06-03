@@ -4,7 +4,7 @@
 
 ## Intro
 
-A fully interactive tictactoe that demonstrates the power of React. Play the [demo](https://tictactoe.johanwestermann.co.za/)
+A fully interactive tictactoe that demonstrates the power of React. [Play the game here](https://tictactoe.johanwestermann.co.za/)
 
 ![img1](https://github.com/Stringboom/tictactoe/assets/38455240/ba83b022-9a52-431a-bb07-b832ba951a86)
 
