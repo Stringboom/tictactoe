@@ -4,7 +4,7 @@
 
 ## Player
 
-A fully functional an playable tictactoe that demonstrates the power of react.
+A fully interactive tictactoe that demonstrates the power of React.
 
 ![img1](https://github.com/Stringboom/tictactoe/assets/38455240/ba83b022-9a52-431a-bb07-b832ba951a86)
 
@@ -16,7 +16,7 @@ The AI is implemented with the minimax algorithm, learn more [here](https://blog
 
 ## Game Loop
 
-It uses a simple game loop with react states. It also features a mobile first fully responsive design. 
+It uses a simple game loop with the [React Lifecycle](https://legacy.reactjs.org/docs/state-and-lifecycle.html). It also features a mobile first fully responsive design. 
 
 ![img3](https://github.com/Stringboom/tictactoe/assets/38455240/c98bb424-e839-41f8-a79d-935a80a60613)
 
