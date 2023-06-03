@@ -2,7 +2,7 @@
 
 ![Logo](https://github.com/Stringboom/tictactoe/assets/38455240/8b1a4dcc-a6e8-426e-a0d2-a0402d2e37ef)
 
-## Player
+## Intro
 
 A fully interactive tictactoe that demonstrates the power of React.
 
